@@ -1,8 +1,18 @@
 # Arvato-Project-
 Customer Segmentation Report for Arvato Financial Services
 
+## Table of Contents
+
+- [Project description and Motivation](#projectoverview)
+- [Data](#data)
+- [Project](#project)
+- [Requirements](#requirements)
+
+
+<a id='projectoverview'></a>
 ## Project description and Motivation
 
+<a id='data'></a>
 ## Data 
 The data has been provided thanks to Arvato Financial Services and Udactity. 
 
@@ -13,6 +23,7 @@ The data has been provided thanks to Arvato Financial Services and Udactity.
 - Customer Acquisition
   - Training/Test datasets
 
+<a id='project'></a>
 ## Project 
 
 Arvato Project Workbook.ipynb
@@ -28,6 +39,7 @@ Arvato Project Workbook.ipynb
   * Predictions on Test data
 * Part 3: Kaggle Competition
 
-Requirements
+<a id='requirements'></a>
+## Requirements
 
 All the package requirments are at the `requirements.txt`. For install run `python install -r requirements.txt`.
