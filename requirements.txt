@@ -7,3 +7,6 @@ xgboost
 pickle
 tqdm
 time
+lightgbm
+catboost
+bayesian-optimization
