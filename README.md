@@ -39,6 +39,9 @@ Arvato Project Workbook.ipynb
   * Predictions on Test data
 * Part 3: Kaggle Competition
 
+### Project report
+Project report could be found in [medium](https://evangelou-alexandr.medium.com/customer-segmentation-for-arvato-financial-services-43e92159f1c).
+
 <a id='requirements'></a>
 ## Requirements
 
